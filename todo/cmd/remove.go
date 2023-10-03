@@ -34,9 +34,10 @@ to quickly create a Cobra application.`,
 			if err != nil {
 				fmt.Println(err)
 				return
+			} else {
+				fmt.Println("todo removed")
 			}
 		}
-		fmt.Println("remove called")
 	},
 }
 

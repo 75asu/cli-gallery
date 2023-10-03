@@ -35,6 +35,8 @@ to quickly create a Cobra application.`,
 			if err != nil {
 				fmt.Println(err)
 				return
+			} else {
+				fmt.Println("One todo added")
 			}
 		} else {
 			fmt.Println("Enter just one todo ")

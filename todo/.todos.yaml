@@ -1,4 +1,7 @@
 todos:
     - name: my1stTask
-      description: Tide my room
+      description: This is an updated description
+      deadline: 30-10-2022
+    - name: my1stTask
+      description: This is an updated description
       deadline: 30-10-2022
